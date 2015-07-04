@@ -1,4 +1,4 @@
-PAGEVIEWER
+PHP: PAGEVIEWER
 Please create a simple page viewer. Pages are plain text or HTML documents that are stored at a directory page or in a database (database schema included).
 The coded application must search for pages by their name. The output must display a standards-compliant HTML document with page title and content. Please display execution time in milliseconds at the end of the output.
 
@@ -17,7 +17,7 @@ Please create web application using pure PHP and MySQL without using any framewo
 
 
 
-PUZZLE
+Javascript: PUZZLE
 Game applications must display the following elements:
 
 Playing field with numbered tiles
